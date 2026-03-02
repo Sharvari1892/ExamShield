@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS audit_events;
+DROP TABLE IF EXISTS answers;
+DROP TABLE IF EXISTS exam_sessions;
+DROP TABLE IF EXISTS questions;
+DROP TABLE IF EXISTS exams;
