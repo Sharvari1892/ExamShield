@@ -356,10 +356,6 @@ npm run build
 
 This project is currently in development. Contribution guidelines will be added soon.
 
-## 📞 Contact
-
-For questions or support, please contact [your-email@example.com]
-
 ---
 
 **Built with ❤️ using Go and React**
