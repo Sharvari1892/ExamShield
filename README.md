@@ -18,7 +18,6 @@ A comprehensive exam proctoring and integrity monitoring platform designed to en
 - [Development](#development)
 - [API Documentation](#api-documentation)
 - [Roadmap](#roadmap)
-- [License](#license)
 
 ## ✨ Features
 
@@ -347,10 +346,6 @@ npm run build
 - [ ] Integrity monitoring system
 - [ ] Real-time alerts
 - [ ] Admin dashboard
-
-## 📄 License
-
-[Add your license here]
 
 ## 🤝 Contributing
 
